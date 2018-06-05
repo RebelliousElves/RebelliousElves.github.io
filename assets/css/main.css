@@ -1587,6 +1587,8 @@
 
 	.align-center {
 		text-align: center;
+		margin: auto;
+width: 50%;
 	}
 
 	.align-right {
